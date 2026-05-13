@@ -42,5 +42,5 @@ con routing dinámico, segmentación por VLANs y servicios de red.
 - Servidor HTTP respondiendo desde browser
 
 ## 👤 Autor
-**morris-A11**
+adrian alvarez jaramillo
 Proyecto de infraestructura de red ISP profesional
